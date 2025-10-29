@@ -1,5 +1,7 @@
 # Moonchild
 
+**[jo56.github.io/moonchild](https://jo56.github.io/moonchild)**
+
 Audiovisual project based on images from *Conway's Game of Life*. These were all taken as steps of legitimate large simulations playing out over the grid, with some combined as frames of animation to create GIFs. 
 Accompanied with a guitar soundtrack created by myself.
 
